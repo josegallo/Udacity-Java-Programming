@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=arrayList
+comment0.target=ArrayListMethods(java.util.ArrayList)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ArrayListMethods\n
+comment1.params=
+comment1.target=boolean\ isSorted()
+comment1.text=\n\ Determines\ if\ the\ array\ list\ is\ sorted\ (do\ not\ sort)\n\ When\ Strings\ are\ sorted,\ they\ are\ in\ alphabetical\ order\n\ Use\ the\ compareTo\ method\ to\ determine\ which\ string\ comes\ first\n\ You\ can\ look\ at\ the\ String\ compareTo\ method\ in\ the\ Java\ API\n\ @return\ true\ if\ the\ array\ list\ is\ sorted\ else\ false.\n
+comment2.params=
+comment2.target=void\ replaceWithLargerNeighbor()
+comment2.text=\n\ Replaces\ all\ but\ the\ first\ and\ last\ elements\ with\ the\ larger\ of\ its\ two\ neighbors\n\ You\ can\ use\ the\ compareTo()\ method\ to\ determine\ which\ string\ is\ larger\ (larger\ in\ alphabetical\n\ order).\n\ Example\:\ if\ the\ list\ is\ originally\n\ \ \ \ ["cat",\ "ape",\ "dog",\ "horse",\ "zebra"]\n\ after\ this\ method\ it\ should\ be\:\ \n\ \ \ \ ["cat",\ "dog",\ "horse",\ "zebra",\ "zebra"]\n
+comment3.params=
+comment3.target=int\ countDuplicates()
+comment3.text=\n\ Gets\ the\ number\ of\ duplicates\ in\ the\ list.\n\ Be\ careful\ to\ only\ count\ each\ duplicate\ once.\ Start\ at\ index\ 0.\ (Does\ it\ match\ any\ of\ the\ other\ elements?)\n\ Get\ the\ next\ word.\ It\ is\ at\ index\ i.\ (Does\ it\ match\ any\ of\ the\ words\ with\ index\ >\ i?)\n\ @return\ the\ number\ of\ duplicate\ words\ in\ the\ list\n
+comment4.params=
+comment4.target=void\ xyzToFront()
+comment4.text=\n\ Moves\ any\ word\ that\ starts\ with\ x,\ y,\ or\ z\ to\ the\ front\ of\ the\ ArrayList,\ but\n\ otherwise\ preserves\ the\ order\n\ Example\:\ if\ the\ list\ is\ orginially\n\ \ \ ["ape",\ "dog",\ "xantus",\ "zebra",\ "cat",\ "yak"]\n\ after\ this\ method\ is\ called\ it\ should\ be\n\ \ \ ["xantus",\ "zebra",\ "yak",\ "ape",\ "dog",\ "cat"]\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ gets\ the\ string\ representation\ of\ this\ array\ list\n\ @returns\ the\ string\ representation\ of\ this\ array\ list\ in\n\ standard\ collection\ format\n
+numComments=6

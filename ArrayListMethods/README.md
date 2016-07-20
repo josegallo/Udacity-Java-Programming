@@ -1,0 +1,1 @@
+four short methods to manipulate an array list of strings. 
