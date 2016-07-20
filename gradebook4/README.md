@@ -1,0 +1,1 @@
+Interesting use of Scann and for loops to read and get scores.
