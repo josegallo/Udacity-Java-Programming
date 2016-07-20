@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=int\ getLength(java.lang.Comparable)
+comment0.text=\n\ Gets\ the\ length\ of\ the\ object\ if\ it\ is\ a\ string\n\ @param\ c\ the\ object\ wehose\ length\ we\ want\n\ @return\ the\ length\ if\ the\ object\ is\ a\ string\ otherwise\ -1\n
+comment1.params=object
+comment1.target=int\ compareTo(java.lang.Object)
+numComments=2
