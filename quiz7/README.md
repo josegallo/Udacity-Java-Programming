@@ -1,4 +1,4 @@
-Implements a set of questions based on Inheritance.
+Implements a set of questions based in Inheritance.
 
 The super class Question has 3 subclasses: NumericQuestion, ChoiceQuestion and TrueFalseQuestion
 
