@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=cardNumber
+comment0.target=CreditCard1(long)
+comment1.params=
+comment1.target=int\ sumCertainDigits()
+comment1.text=\n\ Calculates\ the\ sum\ of\ ever\ other\ digit\ in\ cardNumber\ \n\ starting\ from\ the\ rightmost\ digit.\n\ @return\ the\ sum\ of\ every\ other\ digit\ starting\ from\ the\ rightmost.\n
+numComments=2
