@@ -1,0 +1,1 @@
+Convert the instance methods to static methods
