@@ -1,0 +1,1 @@
+This exercise is an example of how to use static variable on a indepent class from an object.
