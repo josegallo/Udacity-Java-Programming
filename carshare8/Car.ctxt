@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=driverName\ numberOfSeats\ destination
+comment0.target=Car(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getDriverName()
+comment1.text=\n\ \ \ \ \ \ \ Gets\ the\ name\ of\ this\ car's\ driver.\n\ \ \ \ \ \ \ @return\ the\ driver\ name\n
+comment2.params=
+comment2.target=boolean\ hasArrived()
+comment2.text=\n\ \ \ \ \ \ \ Checks\ whether\ this\ car\ has\ arrived\ at\ its\ destination.\n\ \ \ \ \ \ \ @return\ true\ if\ the\ car\ has\ arrived\n
+numComments=3
