@@ -1,0 +1,1 @@
+The subclass Manager invoke the contructor with super(name, salary) ot its superClass employee.
