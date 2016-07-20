@@ -1,0 +1,1 @@
+Interesting using of scanner with for loop using arrays 2D.
