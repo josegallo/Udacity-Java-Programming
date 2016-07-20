@@ -1,0 +1,1 @@
+Using a Scanner, asks the user to entera series of integers and find the maximum and the minimum value using a loop.
