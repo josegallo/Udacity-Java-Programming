@@ -1,0 +1,2 @@
+- Example of polymorphism from a Superclass (Question) to differents subclasses (ChoiceQuestion, NumericQuestion).
+- Invoke a superclass method (display()) within a subclass (ChoiceQuestion) with super class (super.display() )
