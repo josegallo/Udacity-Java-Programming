@@ -1,0 +1,1 @@
+Implement a class Robot that simulates a robot wandering randomly on an infinite plane.
